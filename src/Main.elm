@@ -11,12 +11,12 @@ import Time
 
 gameHeight : number
 gameHeight =
-    30
+    50
 
 
 gameWidth : number
 gameWidth =
-    30
+    50
 
 
 main : Program () Model Msg
